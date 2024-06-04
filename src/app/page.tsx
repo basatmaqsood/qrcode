@@ -103,6 +103,7 @@ export default function Home() {
               Copy QR Code
             </Button>
           </div>
+          <h2 className="mt-4 text-center		">Developed with ❤️ By <br/><span className="font-bold">Basat Maqsood</span></h2>
         </>
       )}
     </main>
